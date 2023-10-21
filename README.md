@@ -1,3 +1,35 @@
+
+# TREE_DATA_STRUCTURES_CHALLENGE
+## Demo
+
+### The UI without any expanded folder
+![App Screenshot](https://github.com/BenMradB/TREE_DATA_STRUCTURES_CHALLENGE/blob/master/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true)
+
+### The UI with expanded folders
+![App Screenshot](https://github.com/BenMradB/TREE_DATA_STRUCTURES_CHALLENGE/blob/master/public/images/UI_Where_Folders_R_Expanded.PNG?raw=true)
+
+
+
+
+## Installation
+
+Install TREE_DATA_STRUCTURES_CHALLENGE with npm
+### Cloning `TREE_DATA_STRUCTURES_CHALLENGE` project : create new folder in your system machine and be located in that folder and type : 
+
+```bash
+  git clone https://github.com/BenMradB/TREE_DATA_STRUCTURES_CHALLENGE.git
+  cd TREE_DATA_STRUCTURES_CHALLENGE
+```
+### Installing the necessary dependencies
+```bash
+  npm install
+```
+
+### Run the project
+```bash
+  npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
