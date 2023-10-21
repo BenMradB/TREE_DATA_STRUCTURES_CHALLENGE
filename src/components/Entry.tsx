@@ -34,8 +34,8 @@ const Entry = ({
           style={{
             position: "absolute",
             left: `${(indentationLevel + 0.6999) * 10}px`,
-            height: "calc(100% - 22px)",
-            top: "22px",
+            height: "calc(100% - 30px)",
+            top: "30px",
             width: "1px",
             backgroundColor: " rgba(128, 128, 128, 0.432)",
           }}
